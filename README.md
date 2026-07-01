@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gagan-Gahwai
-- 👀 I’m interested in full stack and AI
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in data science and AI/ML
+- 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on innocative tech projects and open source 
 - 📫 How to reach me [gagangahawai1@gmail.com], 
 - 😄 Pronouns: He/Him
