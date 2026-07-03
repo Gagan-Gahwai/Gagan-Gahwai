@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gagan-Gahwai
+- 👋 Hi, I’m @Gagan-Gahawai
 - 👀 I’m interested in data science and AI/ML
 - 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on innocative tech projects and open source 
